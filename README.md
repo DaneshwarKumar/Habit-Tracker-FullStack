@@ -1,10 +1,6 @@
 # Habit-Tracker-FullStack
 Created Habit Tracker app using Reactjs , Redux , Nodejs , Mongodb , Mongoose 
 
-
-# Code for CoderDost Youtube video on Connecting REACT with NODE and MONGO
-
-
 Two folder of front-end and back-end are provided separately.
 
 Front-end : `react-app`
